@@ -18,4 +18,4 @@ To run the app:
 3. cd into the server directory and run *npm run server*
 4. Open the localhost link displayed.
 
-![image](https://user-images.githubusercontent.com/98682258/219933137-601e7352-fc73-4368-8d87-a5bb40419490.png)
+![image](https://user-images.githubusercontent.com/98682258/219933487-88a6d52c-2d58-4a35-8c57-19ddf448738e.png)
