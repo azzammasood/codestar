@@ -1,6 +1,6 @@
 # CodeStar - An OpenAI ChatGPT App
 ![image](https://user-images.githubusercontent.com/98682258/219933392-27f18438-c4a3-4b89-9246-f0c450334e0c.png)
-## Coded in vanilla JavaScript.
+**Coded in vanilla JavaScript.**
 
 
 Features:
